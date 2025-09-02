@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { db } from "../firabse";
 import { collection, addDoc, serverTimestamp } from "firebase/firestore";
 // ✅ Verifique se este caminho para a imagem está correto
-import sideImage from "../assets/Bosque.jpg";
+import sideImage from "../assets/altar-de-casamento-feito-de-palitos-de-madeira-e-suportes-de-bouquets.jpg";
 
 interface ConfirmPresenceProps {
   onNavigate: (page: string) => void;
