@@ -11,7 +11,7 @@ import ConfirmPresence from './components/ConfirmPresence';
 import Login from './components/Login';
 import AdminConfirmations from './components/AdminConfirmations';
 
-// A inicialização do Firebase foi movida para o arquivo `src/firebase.ts`
+// A inicialização do Firebase foi movida para o arquivo `src/firebase`
 // Portanto, não é mais necessária aqui.
 
 function App() {
