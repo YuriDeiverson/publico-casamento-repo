@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+body {
+  font-family: 'Lora', serif;
+}
